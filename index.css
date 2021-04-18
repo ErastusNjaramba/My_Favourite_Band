@@ -4,7 +4,13 @@ body {
 }
 
 ul{
-  align-items: center;
+  /* align-items: center; */
+  color: white;
+  position: absolute;
+  text-align:center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -900%);
 }
 
 li {
@@ -18,9 +24,35 @@ li {
 .pilots {
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, 700%);
-}
+  left: 45%;
+  transform: translate(-50%, 680%);
+  text-align:justify;
+  text-align-last: center;
+} 
 .pilots{
-  color: darkblue;
+  color: rgb(255, 174, 0);
+}
+h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 1650%);
+  background-color: black;
+  color: yellow;
+  text-align:center
+  
+}
+#links{
+  overflow: hidden;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 270%);
+  color: rgb(75, 7, 7);
+  text-align:center
 }
