@@ -30,7 +30,7 @@ li {
   text-align-last: center;
 } 
 .pilots{
-  color: rgb(255, 174, 0);
+  color: rgb(255, 255, 255);
 }
 h1 {
   position: absolute;
@@ -43,6 +43,10 @@ h1 {
   
 }
 #links{
+  background-color: black;
+  border: solid;
+  border-width: 2px;
+  border-color: cyan;
   overflow: hidden;
   float: left;
   text-align: center;
@@ -52,7 +56,9 @@ h1 {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, 270%);
-  color: rgb(75, 7, 7);
+  transform: translate(-50%,2120%);
+  color: rgb(255, 255, 255);
   text-align:center
+
 }
+
