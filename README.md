@@ -1,6 +1,14 @@
-MIT License
+ MIT License
 
-Copyright (c) 2021 keemerastus
+Copyright (c) 2021 ErastusNjaramba
+
+
+# 21 pilots fan page 
+#### A fan page for 21 pilots to help you develop an intrest in good music, 17 Apr 2021
+#### By *ErastusNjaramba*
+
+
+This webpage is a fan site for 21 pilots band. It contains information about the band, a short bio of the members and a list of my favorite songs and albums. The purpose of the webpage is at first a practice for my week one indipendent project on html css and terminal and also to express my self and give u a chance and also exploit you to some good music .
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -18,4 +26,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE. 
+
+HTML and CSS
+
+
