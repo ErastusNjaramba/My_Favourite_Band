@@ -1,47 +1,55 @@
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+html{
+  background-color: #1b262c;
 }
 
-ul{
-  /* align-items: center; */
-  color: white;
+#h1{
+  margin: 90px;
+  border: 1px solid #ffd880;
   position: absolute;
-  text-align:center;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -900%);
-}
-
-li {
-  overflow: hidden;
-  float: left;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-.pilots {
-  position: absolute;
-  top: 50%;
-  left: 45%;
-  transform: translate(-50%, 680%);
-  text-align:justify;
+  top: 16%;
+  left: 75%;
+  transform: translate(-50%, 50%);
+  color: #bbe1fa;
   text-align-last: center;
-} 
-.pilots{
-  color: rgb(255, 255, 255);
 }
-h1 {
+
+
+.favband{
+  text-align: start;
+  position: absolute;
+  top: 15%;
+  left: 80%;
+  transform: translate(-50%, 50%);
+  font-size: 20px;
+}
+
+p{
+  color: #bbe1fa;
+}
+h2{
+  color: #bbe1fa;
+}
+.tyler{
+  align-items: center;
+}
+
+.favouritesongs{
+  font-size: x-large;
+  color: #bbe1fa;
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, 1650%);
-  background-color: black;
-  color: yellow;
-  text-align:center
+  left: 20%;
+  transform: translate(-50%, 610%);
+}
+
+h1{
+  color: #ffffff;
+  position: absolute;
+  top: 270%;
+  left: 10%;
   
 }
+
 #links{
   background-color: black;
   border: solid;
@@ -56,9 +64,17 @@ h1 {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,2120%);
+  transform: translate(-50%,3480%);
   color: rgb(255, 255, 255);
   text-align:center
 
 }
 
+.click {
+  overflow: hidden;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
