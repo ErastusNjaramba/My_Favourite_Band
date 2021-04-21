@@ -91,51 +91,20 @@ display: flex;
 } 
 
 .links{
-  padding: 20px;
+  list-style: none;
+  padding: 30px;
   background-color:white;
   color: #bbe1fa;
   font-size: medium;
+  display: flex;
+  justify-content: space-around;
 }
 
-
-
-
-
-
-
-
-
-
-.youtube  {
-  width: 20%;
-  display: inline-block;
+.click{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  text-decoration:underline;
 }
-.funpage{
-  width: 20%;
-  display: inline-block;
-  position: absolute;
-}
-
-.store{
-  width: 20%;
-  display: inline-block;
-  position: absolute;
-  margin-left:25%;
-}
-.instagram{
-  width: 20%;
-  display: inline-block;
-  position: absolute;
-  margin-left: 50%;
-}
-.spotify{
-    width: 20%;
-    display: inline-block;
-    position: absolute;
-    margin-left: 70%;
-}
-
-
 
 
 
