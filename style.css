@@ -90,6 +90,12 @@ display: flex;
   padding-left: 10%;
 } 
 
+.links{
+  padding: 20px;
+  background-color:white;
+  color: #bbe1fa;
+  font-size: medium;
+}
 
 
 
@@ -100,88 +106,53 @@ display: flex;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .favband{
-  text-align: start;
-  position: absolute;
-  top: 15%;
-  left: 80%;
-  transform: translate(-50%, 50%);
-  font-size: 20px;
-} */
-
-/* .thepilots{
+.youtube  {
+  width: 20%;
   display: inline-block;
 }
-p{
-  color: #bbe1fa;
-}
-h2{
-  color: #bbe1fa;
-}
-.tyler{
-  align-items: center;
+.funpage{
+  width: 20%;
   display: inline-block;
-
-}
-
-.favouritesongs{
-  font-size: x-large;
-  color: #bbe1fa;
   position: absolute;
-  top: 50%;
-  left: 20%;
-  transform: translate(-50%, 610%);
 }
 
-h1{
-  color: #ffffff;
+.store{
+  width: 20%;
+  display: inline-block;
   position: absolute;
-  top: 270%;
-  left: 10%;
-  
+  margin-left:25%;
 }
-
-#links{
-  background-color: black;
-  border: solid;
-  border-width: 2px;
-  border-color: cyan;
-  overflow: hidden;
-  float: left;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+.instagram{
+  width: 20%;
+  display: inline-block;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,3480%);
-  color: rgb(255, 255, 255);
-  text-align:center
+  margin-left: 50%;
+}
+.spotify{
+    width: 20%;
+    display: inline-block;
+    position: absolute;
+    margin-left: 70%;
 }
 
-.click {
-  overflow: hidden;
-  float: left;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
