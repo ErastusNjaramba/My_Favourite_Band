@@ -68,12 +68,27 @@ display: flex;
 }
 
 
+/* Top songs */
+.topSong{
+  background-image: url("images/21Pilots.jpg");
+  height: 1000px;
+  background-repeat: no-repeat;
+  margin-top: 20%;
+}
+.songsHeading{
+  color: #bbe1fa;
+  text-align: center;
+  width: 20%;
+  padding-top:10%;
+  padding-left: 10%;
+  text-decoration:underline;
+} 
 
-
-
-
-
-
+.favouriteSongs{
+  color: #bbe1fa;
+  /* padding-top:2%; */
+  padding-left: 10%;
+} 
 
 
 
