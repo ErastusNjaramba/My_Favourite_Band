@@ -1,0 +1,79 @@
+html{
+  background-color: #1b262c;
+}
+
+#h1{
+  margin: 90px;
+  border: 1px solid #ffd880;
+  position: absolute;
+  top: 16%;
+  left: 75%;
+  transform: translate(-50%, 50%);
+  color: #bbe1fa;
+  text-align-last: center;
+}
+
+
+.favband{
+  text-align: start;
+  position: absolute;
+  top: 15%;
+  left: 80%;
+  transform: translate(-50%, 50%);
+  font-size: 20px;
+}
+
+p{
+  color: #bbe1fa;
+}
+h2{
+  color: #bbe1fa;
+}
+.tyler{
+  align-items: center;
+}
+
+.favouritesongs{
+  font-size: x-large;
+  color: #bbe1fa;
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  transform: translate(-50%, 610%);
+}
+
+h1{
+  color: #ffffff;
+  position: absolute;
+  top: 270%;
+  left: 10%;
+  
+}
+
+#links{
+  background-color: black;
+  border: solid;
+  border-width: 2px;
+  border-color: cyan;
+  overflow: hidden;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,3480%);
+  color: rgb(255, 255, 255);
+  text-align:center
+}
+
+.click {
+  overflow: hidden;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}

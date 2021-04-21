@@ -1,2 +1,33 @@
-# My_Favourite_Band
-week one personal project
+ MIT License
+
+Copyright (c) 2021 ErastusNjaramba
+
+
+# 21 pilots fan page 
+#### A fan page for 21 pilots to help you develop an intrest in good music, 17 Apr 2021
+#### By *ErastusNjaramba*
+
+
+This webpage is a fan site for 21 pilots band. It contains information about the band, a short bio of the members and a list of my favorite songs and albums. The purpose of the webpage is at first a practice for my week one indipendent project on html css and terminal and also to express my self and give u a chance and also exploit you to some good music .
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. 
+
+HTML and CSS
+
+
