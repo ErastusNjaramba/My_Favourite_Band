@@ -101,9 +101,11 @@ display: flex;
 }
 
 .click{
+
   color: rgb(255, 255, 255);
   text-align: center;
   text-decoration:underline;
+
 }
 
 
